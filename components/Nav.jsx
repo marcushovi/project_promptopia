@@ -18,12 +18,12 @@ const Nav = () => {
             height={30}
             className="object-contain"
             />
-            <p className="logo_text">Prom  ptopia</p>
+            <p className="logo_text">Promptopia</p>
         </Link>
 
         <button type="button" onClick={signOut}
         className="outline_btn">
-            Sign Outt
+            Sign Out
 
         </button>
 
